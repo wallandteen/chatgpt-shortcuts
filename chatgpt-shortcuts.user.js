@@ -6,6 +6,7 @@
 // @author       Valentin Chizhov
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
+// @run-at       document-start
 // @grant        none
 // ==/UserScript==
 
