@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         ChatGPT Extended Shortcuts
 // @namespace    https://github.com/wallandteen/chatgpt-shortcuts
-// @version      0.1.0
+// @version      0.1.1
+// @updateURL    https://raw.githubusercontent.com/wallandteen/chatgpt-shortcuts/main/chatgpt-shortcuts.user.js
+// @downloadURL  https://raw.githubusercontent.com/wallandteen/chatgpt-shortcuts/main/chatgpt-shortcuts.user.js
 // @description  Enhance your ChatGPT experience by providing convenient keyboard shortcuts.
 // @author       Valentin Chizhov
 // @match        https://chat.openai.com/*
