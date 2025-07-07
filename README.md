@@ -18,6 +18,10 @@ To use this script, you need to have a user script manager like [Tampermonkey](h
 2. Click [here](https://github.com/wallandteen/chatgpt-shortcuts/raw/refs/heads/main/chatgpt-shortcuts.user.js) to install the ChatGPT Extended Shortcuts script.
 3. Confirm the installation in the Tampermonkey dashboard.
 
+### Automatic Updates
+
+The script defines an `@updateURL`, so Tampermonkey will automatically fetch new versions when they become available.
+
 ## Usage
 
 Once installed, navigate to [ChatGPT](https://chatgpt.com/). Use the keyboard shortcuts described in the Features section to enhance your ChatGPT experience and enjoy the added convenience.
